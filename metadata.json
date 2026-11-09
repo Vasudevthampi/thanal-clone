@@ -1,0 +1,6 @@
+{
+  "name": "Landscape Design Studio",
+  "description": "A landscape design website featuring garden inspiration, a project planner, and outdoor living ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

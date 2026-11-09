@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/services", "destination": "/" },
+    { "source": "/projects", "destination": "/" },
+    { "source": "/gallery", "destination": "/" },
+    { "source": "/clients", "destination": "/" },
+    { "source": "/before-after", "destination": "/" },
+    { "source": "/garden-planner", "destination": "/" },
+    { "source": "/contact", "destination": "/" }
+  ]
+}
